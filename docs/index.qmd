@@ -1,0 +1,14 @@
+---
+title: "My even better website"
+format: html
+embed-resources: true
+---
+
+## Section 1
+
+This is so cool.
+
+## Section 2
+
+And fun.
+
